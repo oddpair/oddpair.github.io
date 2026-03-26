@@ -2,7 +2,7 @@ google.com, pub-1786608038079390, DIRECT, f08c47fec0942fa0
 
 OWNERDOMAIN=oddpair.github.io
 ironsrc.com, 651731, DIRECT
-facebook.com, 1039328936856318, DIRECT, c3e20eee3f780d68
+facebook.com, 9137473318208185, DIRECT, c3e20eee3f780d68
 
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
