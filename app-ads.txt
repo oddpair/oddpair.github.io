@@ -4,6 +4,7 @@ OWNERDOMAIN=oddpair.github.io
 ironsrc.com, 651731, DIRECT
 facebook.com, 1039328936856318, DIRECT, c3e20eee3f780d68
 facebook.com, 9137473318208185, DIRECT, c3e20eee3f780d68
+vungle.com, 69c4bdb21f8c03f9a71a986c, DIRECT, c107d686becd2d77
 
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
